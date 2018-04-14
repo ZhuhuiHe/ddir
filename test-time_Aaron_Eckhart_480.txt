@@ -1,0 +1,906 @@
+
+time_havon is 24834
+time_STEP3 is 10479
+time_align is 863
+time_detect is 36420
+time_extractFeature is 61171
+
+time_havon is 24723
+time_STEP3 is 11312
+time_align is 986
+time_detect is 37256
+time_extractFeature is 59851
+
+time_havon is 23610
+time_STEP3 is 9781
+time_align is 971
+time_detect is 34601
+time_extractFeature is 60216
+
+time_havon is 24384
+time_STEP3 is 11194
+time_align is 887
+time_detect is 36610
+time_extractFeature is 66479
+
+time_havon is 24617
+time_STEP3 is 11078
+time_align is 887
+time_detect is 36829
+time_extractFeature is 66716
+
+time_havon is 25016
+time_STEP3 is 10440
+time_align is 905
+time_detect is 36612
+time_extractFeature is 61956
+
+time_havon is 24919
+time_STEP3 is 11172
+time_align is 879
+time_detect is 37231
+time_extractFeature is 66647
+
+time_havon is 25008
+time_STEP3 is 10543
+time_align is 881
+time_detect is 36746
+time_extractFeature is 63150
+
+time_havon is 24160
+time_STEP3 is 9771
+time_align is 980
+time_detect is 35171
+time_extractFeature is 60249
+
+time_havon is 25774
+time_STEP3 is 11241
+time_align is 888
+time_detect is 38159
+time_extractFeature is 66986
+
+time_havon is 27626
+time_STEP3 is 12642
+time_align is 928
+time_detect is 41489
+time_extractFeature is 68125
+
+time_havon is 25636
+time_STEP3 is 11888
+time_align is 932
+time_detect is 38740
+time_extractFeature is 73459
+
+time_havon is 23999
+time_STEP3 is 10824
+time_align is 936
+time_detect is 36065
+time_extractFeature is 61835
+
+time_havon is 29456
+time_STEP3 is 14809
+time_align is 905
+time_detect is 45440
+time_extractFeature is 69396
+
+time_havon is 26342
+time_STEP3 is 11433
+time_align is 984
+time_detect is 38950
+time_extractFeature is 60197
+
+time_havon is 23365
+time_STEP3 is 10560
+time_align is 876
+time_detect is 34942
+time_extractFeature is 60060
+
+time_havon is 24135
+time_STEP3 is 9810
+time_align is 966
+time_detect is 35171
+time_extractFeature is 60752
+
+time_havon is 27890
+time_STEP3 is 9895
+time_align is 892
+time_detect is 38829
+time_extractFeature is 60492
+
+time_havon is 24527
+time_STEP3 is 9841
+time_align is 895
+time_detect is 35412
+time_extractFeature is 59806
+
+time_havon is 24336
+time_STEP3 is 10571
+time_align is 894
+time_detect is 35953
+time_extractFeature is 60300
+
+time_havon is 23337
+time_STEP3 is 10482
+time_align is 895
+time_detect is 34858
+time_extractFeature is 61140
+
+time_havon is 26070
+time_STEP3 is 10606
+time_align is 895
+time_detect is 37716
+time_extractFeature is 60217
+
+time_havon is 24506
+time_STEP3 is 9891
+time_align is 968
+time_detect is 35633
+time_extractFeature is 60638
+
+time_havon is 24382
+time_STEP3 is 10490
+time_align is 898
+time_detect is 35923
+time_extractFeature is 61216
+
+time_havon is 24527
+time_STEP3 is 9780
+time_align is 963
+time_detect is 35516
+time_extractFeature is 60870
+
+time_havon is 27273
+time_STEP3 is 11336
+time_align is 895
+time_detect is 39648
+time_extractFeature is 66869
+
+time_havon is 26326
+time_STEP3 is 9918
+time_align is 905
+time_detect is 37296
+time_extractFeature is 60829
+
+time_havon is 23364
+time_STEP3 is 10259
+time_align is 888
+time_detect is 34665
+time_extractFeature is 59947
+
+time_havon is 24409
+time_STEP3 is 10420
+time_align is 884
+time_detect is 35857
+time_extractFeature is 60497
+
+time_havon is 24802
+time_STEP3 is 11319
+time_align is 891
+time_detect is 37154
+time_extractFeature is 67189
+
+time_havon is 24866
+time_STEP3 is 9956
+time_align is 905
+time_detect is 35879
+time_extractFeature is 60414
+
+time_havon is 24062
+time_STEP3 is 10527
+time_align is 885
+time_detect is 35709
+time_extractFeature is 60982
+
+time_havon is 24178
+time_STEP3 is 10651
+time_align is 878
+time_detect is 35952
+time_extractFeature is 60332
+
+time_havon is 25033
+time_STEP3 is 10560
+time_align is 879
+time_detect is 36710
+time_extractFeature is 60341
+
+time_havon is 24474
+time_STEP3 is 10615
+time_align is 884
+time_detect is 36124
+time_extractFeature is 61478
+
+time_havon is 24677
+time_STEP3 is 13269
+time_align is 912
+time_detect is 39002
+time_extractFeature is 71982
+
+time_havon is 24785
+time_STEP3 is 10311
+time_align is 885
+time_detect is 36224
+time_extractFeature is 60871
+
+time_havon is 25304
+time_STEP3 is 11295
+time_align is 895
+time_detect is 37663
+time_extractFeature is 67034
+
+time_havon is 26771
+time_STEP3 is 11268
+time_align is 889
+time_detect is 39190
+time_extractFeature is 66591
+
+time_havon is 24592
+time_STEP3 is 10809
+time_align is 897
+time_detect is 36447
+time_extractFeature is 60926
+
+time_havon is 24892
+time_STEP3 is 10592
+time_align is 892
+time_detect is 36608
+time_extractFeature is 60673
+
+time_havon is 24034
+time_STEP3 is 11332
+time_align is 880
+time_detect is 36389
+time_extractFeature is 67143
+
+time_havon is 24482
+time_STEP3 is 10252
+time_align is 871
+time_detect is 35770
+time_extractFeature is 60605
+
+time_havon is 26507
+time_STEP3 is 12167
+time_align is 993
+time_detect is 39909
+time_extractFeature is 62286
+
+time_havon is 24797
+time_STEP3 is 10621
+time_align is 906
+time_detect is 36471
+time_extractFeature is 60727
+
+time_havon is 24682
+time_STEP3 is 10507
+time_align is 888
+time_detect is 36323
+time_extractFeature is 60174
+
+time_havon is 24536
+time_STEP3 is 10690
+time_align is 896
+time_detect is 36278
+time_extractFeature is 67492
+
+time_havon is 26557
+time_STEP3 is 10802
+time_align is 877
+time_detect is 38494
+time_extractFeature is 67934
+
+time_havon is 24341
+time_STEP3 is 10498
+time_align is 871
+time_detect is 35862
+time_extractFeature is 60692
+
+time_havon is 25168
+time_STEP3 is 10560
+time_align is 873
+time_detect is 36846
+time_extractFeature is 60676
+
+time_havon is 25350
+time_STEP3 is 10240
+time_align is 886
+time_detect is 36658
+time_extractFeature is 61011
+
+time_havon is 24770
+time_STEP3 is 11838
+time_align is 911
+time_detect is 37759
+time_extractFeature is 69218
+
+time_havon is 25037
+time_STEP3 is 10598
+time_align is 893
+time_detect is 36672
+time_extractFeature is 60820
+
+time_havon is 24370
+time_STEP3 is 11368
+time_align is 883
+time_detect is 36884
+time_extractFeature is 67494
+
+time_havon is 24599
+time_STEP3 is 10602
+time_align is 884
+time_detect is 36349
+time_extractFeature is 61319
+
+time_havon is 25462
+time_STEP3 is 11061
+time_align is 891
+time_detect is 37657
+time_extractFeature is 67623
+
+time_havon is 24800
+time_STEP3 is 9879
+time_align is 1014
+time_detect is 36000
+time_extractFeature is 60838
+
+time_havon is 26061
+time_STEP3 is 11332
+time_align is 880
+time_detect is 38514
+time_extractFeature is 67811
+
+time_havon is 24603
+time_STEP3 is 10752
+time_align is 879
+time_detect is 36479
+time_extractFeature is 67107
+
+time_havon is 24508
+time_STEP3 is 11186
+time_align is 901
+time_detect is 36735
+time_extractFeature is 61000
+
+time_havon is 24389
+time_STEP3 is 11313
+time_align is 884
+time_detect is 36830
+time_extractFeature is 67894
+
+time_havon is 26307
+time_STEP3 is 9961
+time_align is 998
+time_detect is 37510
+time_extractFeature is 60799
+
+time_havon is 24893
+time_STEP3 is 10921
+time_align is 881
+time_detect is 36952
+time_extractFeature is 60917
+
+time_havon is 24205
+time_STEP3 is 10928
+time_align is 891
+time_detect is 36182
+time_extractFeature is 69110
+
+time_havon is 31109
+time_STEP3 is 13850
+time_align is 925
+time_detect is 46159
+time_extractFeature is 89997
+
+time_havon is 23225
+time_STEP3 is 10469
+time_align is 892
+time_detect is 34740
+time_extractFeature is 61468
+
+time_havon is 24546
+time_STEP3 is 10877
+time_align is 886
+time_detect is 36453
+time_extractFeature is 67453
+
+time_havon is 26440
+time_STEP3 is 10725
+time_align is 894
+time_detect is 38214
+time_extractFeature is 67270
+
+time_havon is 23520
+time_STEP3 is 12860
+time_align is 905
+time_detect is 37524
+time_extractFeature is 70044
+
+time_havon is 26669
+time_STEP3 is 12334
+time_align is 908
+time_detect is 40154
+time_extractFeature is 66412
+
+time_havon is 24324
+time_STEP3 is 9891
+time_align is 887
+time_detect is 35251
+time_extractFeature is 61716
+
+time_havon is 25241
+time_STEP3 is 10680
+time_align is 884
+time_detect is 36953
+time_extractFeature is 60479
+
+time_havon is 24504
+time_STEP3 is 10862
+time_align is 881
+time_detect is 36404
+time_extractFeature is 67425
+
+time_havon is 24549
+time_STEP3 is 10158
+time_align is 895
+time_detect is 35775
+time_extractFeature is 62009
+
+time_havon is 24916
+time_STEP3 is 10606
+time_align is 889
+time_detect is 36562
+time_extractFeature is 61396
+
+time_havon is 24813
+time_STEP3 is 10364
+time_align is 884
+time_detect is 36228
+time_extractFeature is 62299
+
+time_havon is 24371
+time_STEP3 is 12191
+time_align is 906
+time_detect is 37725
+time_extractFeature is 63966
+
+time_havon is 24510
+time_STEP3 is 10768
+time_align is 885
+time_detect is 36306
+time_extractFeature is 60952
+
+time_havon is 24394
+time_STEP3 is 10910
+time_align is 876
+time_detect is 36421
+time_extractFeature is 68140
+
+time_havon is 24588
+time_STEP3 is 11391
+time_align is 889
+time_detect is 37013
+time_extractFeature is 67536
+
+time_havon is 24214
+time_STEP3 is 10711
+time_align is 892
+time_detect is 35970
+time_extractFeature is 67793
+
+time_havon is 24864
+time_STEP3 is 10609
+time_align is 867
+time_detect is 36604
+time_extractFeature is 61456
+
+time_havon is 24702
+time_STEP3 is 9871
+time_align is 974
+time_detect is 35817
+time_extractFeature is 61355
+
+time_havon is 23460
+time_STEP3 is 9995
+time_align is 883
+time_detect is 34673
+time_extractFeature is 61218
+
+time_havon is 24702
+time_STEP3 is 11673
+time_align is 913
+time_detect is 37438
+time_extractFeature is 71899
+
+time_havon is 24651
+time_STEP3 is 10959
+time_align is 881
+time_detect is 36748
+time_extractFeature is 61510
+
+time_havon is 25059
+time_STEP3 is 10685
+time_align is 884
+time_detect is 36884
+time_extractFeature is 60982
+
+time_havon is 24954
+time_STEP3 is 10025
+time_align is 924
+time_detect is 36142
+time_extractFeature is 60839
+
+time_havon is 24932
+time_STEP3 is 11855
+time_align is 890
+time_detect is 37945
+time_extractFeature is 65522
+
+time_havon is 32648
+time_STEP3 is 21103
+time_align is 969
+time_detect is 55167
+time_extractFeature is 79304
+
+time_havon is 24639
+time_STEP3 is 11592
+time_align is 910
+time_detect is 37391
+time_extractFeature is 68721
+
+time_havon is 24233
+time_STEP3 is 10545
+time_align is 883
+time_detect is 35981
+time_extractFeature is 61800
+
+time_havon is 24156
+time_STEP3 is 12710
+time_align is 914
+time_detect is 37923
+time_extractFeature is 72309
+
+time_havon is 25766
+time_STEP3 is 11330
+time_align is 889
+time_detect is 38242
+time_extractFeature is 67553
+
+time_havon is 24818
+time_STEP3 is 10252
+time_align is 889
+time_detect is 36199
+time_extractFeature is 61632
+
+time_havon is 25366
+time_STEP3 is 10601
+time_align is 868
+time_detect is 37102
+time_extractFeature is 61302
+
+time_havon is 24521
+time_STEP3 is 11700
+time_align is 914
+time_detect is 37281
+time_extractFeature is 66401
+
+time_havon is 25083
+time_STEP3 is 10733
+time_align is 893
+time_detect is 36955
+time_extractFeature is 61486
+
+time_havon is 24491
+time_STEP3 is 10775
+time_align is 890
+time_detect is 36301
+time_extractFeature is 68657
+
+time_havon is 23555
+time_STEP3 is 10726
+time_align is 896
+time_detect is 35429
+time_extractFeature is 68162
+
+time_havon is 23560
+time_STEP3 is 10741
+time_align is 888
+time_detect is 35334
+time_extractFeature is 69092
+
+time_havon is 24334
+time_STEP3 is 9971
+time_align is 968
+time_detect is 35522
+time_extractFeature is 61325
+
+time_havon is 23399
+time_STEP3 is 10658
+time_align is 882
+time_detect is 35085
+time_extractFeature is 68711
+
+time_havon is 22745
+time_STEP3 is 11322
+time_align is 881
+time_detect is 35206
+time_extractFeature is 68112
+
+time_havon is 22600
+time_STEP3 is 11166
+time_align is 874
+time_detect is 34880
+time_extractFeature is 68580
+
+time_havon is 23223
+time_STEP3 is 11267
+time_align is 866
+time_detect is 35619
+time_extractFeature is 67923
+
+time_havon is 23879
+time_STEP3 is 10411
+time_align is 874
+time_detect is 35476
+time_extractFeature is 61241
+
+time_havon is 25604
+time_STEP3 is 11249
+time_align is 900
+time_detect is 38044
+time_extractFeature is 61446
+
+time_havon is 23084
+time_STEP3 is 11815
+time_align is 888
+time_detect is 36041
+time_extractFeature is 65489
+
+time_havon is 22816
+time_STEP3 is 12892
+time_align is 897
+time_detect is 36861
+time_extractFeature is 73064
+
+time_havon is 23639
+time_STEP3 is 10103
+time_align is 901
+time_detect is 34802
+time_extractFeature is 61944
+
+time_havon is 23181
+time_STEP3 is 12836
+time_align is 895
+time_detect is 37172
+time_extractFeature is 71808
+
+time_havon is 23418
+time_STEP3 is 10112
+time_align is 900
+time_detect is 34589
+time_extractFeature is 62431
+
+time_havon is 23871
+time_STEP3 is 9869
+time_align is 882
+time_detect is 34756
+time_extractFeature is 61638
+
+time_havon is 24091
+time_STEP3 is 10335
+time_align is 888
+time_detect is 35453
+time_extractFeature is 61635
+
+time_havon is 23903
+time_STEP3 is 9958
+time_align is 899
+time_detect is 34913
+time_extractFeature is 61428
+
+time_havon is 24383
+time_STEP3 is 10571
+time_align is 892
+time_detect is 35986
+time_extractFeature is 62340
+
+time_havon is 23740
+time_STEP3 is 10564
+time_align is 888
+time_detect is 35418
+time_extractFeature is 62506
+
+time_havon is 23910
+time_STEP3 is 11312
+time_align is 884
+time_detect is 36345
+time_extractFeature is 67793
+
+time_havon is 22702
+time_STEP3 is 9894
+time_align is 969
+time_detect is 33820
+time_extractFeature is 61211
+
+time_havon is 24115
+time_STEP3 is 9819
+time_align is 981
+time_detect is 35189
+time_extractFeature is 61166
+
+time_havon is 24931
+time_STEP3 is 10730
+time_align is 870
+time_detect is 36788
+time_extractFeature is 67720
+
+time_havon is 26867
+time_STEP3 is 10016
+time_align is 899
+time_detect is 37937
+time_extractFeature is 60907
+
+time_havon is 25563
+time_STEP3 is 11877
+time_align is 896
+time_detect is 38606
+time_extractFeature is 69449
+
+time_havon is 24817
+time_STEP3 is 11720
+time_align is 896
+time_detect is 37587
+time_extractFeature is 73338
+
+time_havon is 24094
+time_STEP3 is 10578
+time_align is 874
+time_detect is 35785
+time_extractFeature is 62311
+
+time_havon is 23522
+time_STEP3 is 10206
+time_align is 889
+time_detect is 34779
+time_extractFeature is 61682
+
+time_havon is 24092
+time_STEP3 is 10533
+time_align is 886
+time_detect is 35661
+time_extractFeature is 60941
+
+time_havon is 23510
+time_STEP3 is 9951
+time_align is 967
+time_detect is 34675
+time_extractFeature is 62103
+
+time_havon is 23705
+time_STEP3 is 9873
+time_align is 896
+time_detect is 34624
+time_extractFeature is 61760
+
+time_havon is 24433
+time_STEP3 is 11334
+time_align is 888
+time_detect is 36798
+time_extractFeature is 67988
+
+time_havon is 23916
+time_STEP3 is 10664
+time_align is 862
+time_detect is 35689
+time_extractFeature is 61423
+
+time_havon is 23560
+time_STEP3 is 10898
+time_align is 885
+time_detect is 35486
+time_extractFeature is 61855
+
+time_havon is 22384
+time_STEP3 is 10388
+time_align is 891
+time_detect is 33802
+time_extractFeature is 62115
+
+time_havon is 23649
+time_STEP3 is 10628
+time_align is 882
+time_detect is 35301
+time_extractFeature is 60987
+
+time_havon is 24026
+time_STEP3 is 10539
+time_align is 881
+time_detect is 35592
+time_extractFeature is 61549
+
+time_havon is 23558
+time_STEP3 is 10742
+time_align is 891
+time_detect is 35331
+time_extractFeature is 61916
+
+time_havon is 23758
+time_STEP3 is 11672
+time_align is 900
+time_detect is 36591
+time_extractFeature is 66283
+
+time_havon is 23772
+time_STEP3 is 10574
+time_align is 871
+time_detect is 35363
+time_extractFeature is 61839
+
+time_havon is 24042
+time_STEP3 is 10659
+time_align is 886
+time_detect is 35732
+time_extractFeature is 61865
+
+time_havon is 26075
+time_STEP3 is 10141
+time_align is 898
+time_detect is 37275
+time_extractFeature is 61566
+
+time_havon is 24621
+time_STEP3 is 10611
+time_align is 891
+time_detect is 36265
+time_extractFeature is 61747
+
+time_havon is 23730
+time_STEP3 is 10585
+time_align is 883
+time_detect is 35345
+time_extractFeature is 61895
+
+time_havon is 23539
+time_STEP3 is 11060
+time_align is 859
+time_detect is 35708
+time_extractFeature is 61710
+
+time_havon is 23700
+time_STEP3 is 12239
+time_align is 898
+time_detect is 37107
+time_extractFeature is 62364
+
+time_havon is 25740
+time_STEP3 is 10573
+time_align is 875
+time_detect is 37431
+time_extractFeature is 62345
+
+time_havon is 23906
+time_STEP3 is 11209
+time_align is 937
+time_detect is 39667
+time_extractFeature is 66047
+
+time_havon is 23822
+time_STEP3 is 10658
+time_align is 871
+time_detect is 35492
+time_extractFeature is 62093
+
+time_havon is 23740
+time_STEP3 is 10795
+time_align is 875
+time_detect is 35565
+time_extractFeature is 61588
+
+time_havon is 22552
+time_STEP3 is 11103
+time_align is 877
+time_detect is 34764
+time_extractFeature is 62065
+
+time_havon is 23481
+time_STEP3 is 11415
+time_align is 908
+time_detect is 35984
+time_extractFeature is 71028
