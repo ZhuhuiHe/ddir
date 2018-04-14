@@ -1,3 +1,4 @@
+%根据lfw中的人名创建空的lfw文件夹，用于保存检测结果
 clear all;
 
 dir=importdata('lfw_allname.txt');
