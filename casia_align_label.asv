@@ -1,2 +1,0 @@
-%用于给txt文件打label
-list_without_label=importdata('casia_train.txt');
